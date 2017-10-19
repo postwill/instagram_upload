@@ -25,7 +25,7 @@ client.upload_photo('test.jpg', '#test_upload')
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/postwill/instagram.
+Bug reports and pull requests are welcome on GitHub at https://github.com/postwill/instagram_upload.
 
 
 ## License
