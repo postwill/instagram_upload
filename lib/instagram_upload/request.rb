@@ -1,4 +1,4 @@
-module Instagram
+module InstagramUpload
   class Request
     attr_reader :agent, :cookies
 
