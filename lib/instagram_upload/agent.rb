@@ -1,4 +1,4 @@
-module Instagram
+module InstagramUpload
   class Agent
     SECRET_KEY = 'b4a23f5e39b5929e0666ac5de94c89d1618a2916'.freeze
     CONTENT_TYPE = 'application/x-www-form-urlencoded; charset=UTF-8'

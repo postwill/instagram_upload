@@ -1,11 +1,11 @@
-# InstagramUploader
+# InstagramUpload
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'instagram'
+gem 'instagram_upload'
 ```
 
 And then execute:
@@ -14,20 +14,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install instagram_uploader
+    $ gem install instagram_upload
 
 ## Usage
 
-Somewhere in your code:
 ```ruby
-require 'instagram'
-```
-
-## Example
-```ruby
-require 'instagram'
-
-client = Instagram::Client.new('login', 'password')
+client = InstagramUpload::Client.new('login', 'password')
 client.upload_photo('test.jpg', '#test_upload')
 ```
 

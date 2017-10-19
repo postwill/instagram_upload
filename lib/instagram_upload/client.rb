@@ -1,4 +1,4 @@
-module Instagram
+module InstagramUpload
   class Client
     API_URL = 'https://instagram.com/api/v1/'.freeze
 
