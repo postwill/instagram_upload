@@ -6,7 +6,7 @@ require 'instagram_upload/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'instagram_upload'
-  spec.version       = Instagram::VERSION
+  spec.version       = InstagramUpload::VERSION
   spec.authors       = ['bezrukavyi']
   spec.email         = ['yaroslav.bezrukavyi@gmail.com']
 
