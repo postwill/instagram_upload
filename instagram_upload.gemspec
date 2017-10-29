@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Instagram client'
   spec.description   = 'Instagram client'
-  spec.homepage      = 'https://github.com/postwill/instagram'
+  spec.homepage      = 'https://github.com/postwill/instagram_upload'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
